@@ -5,7 +5,6 @@ This image is using blend modes to make it auto invert when the GitHub theme swi
 ## SVG Image:
 
 <img src="assets/logo.svg" />
-<img src="assets/tailwind_logo-stacked_wordmark.svg" />
 
 ## SVG Code:
 
