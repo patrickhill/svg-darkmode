@@ -23,3 +23,7 @@ This image is using blend modes to make it auto invert when the GitHub theme swi
 
 </svg>
 ```
+
+## Issues
+* the GitHub app has rendering issues with blend modes
+* the image doesn't render clearly. There is a slight fuzziness to the edges of the wordmark
