@@ -26,4 +26,4 @@ This image is using blend modes to make it auto invert when the GitHub theme swi
 
 ## Issues
 * the GitHub app has rendering issues with blend modes
-* the image doesn't render clearly. There is a slight fuzziness to the edges of the wordmark
+* the image doesn't render clearly. There is a slight fuzziness to the edges of the wordmark like a low resolution version is being rendered
