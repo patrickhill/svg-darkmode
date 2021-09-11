@@ -2,7 +2,11 @@
 
 This image is using blend modes to make it auto invert when the GitHub theme switches between dark mode and light mode.
 
+## SVG Image:
+
 <img src="assets/logo.svg" />
+
+## SVG Code:
 
 ```
 <svg width="273" height="64" viewBox="0 0 273 64" fill="none" xmlns="http://www.w3.org/2000/svg">
